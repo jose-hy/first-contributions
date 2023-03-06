@@ -1506,6 +1506,7 @@ Rishabh Pandey
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
 - [avotrarakotoson](https://github.com/avotrarakotoson)
 - [randose](https://github.com/randose)
+- [jose-hy](https://github.com/jose-hy)
 - [Funya1337](https://github.com/Funya1337)
 - [Vanshsood@DevSoc](https://github.com/Vanshsback)
 - [Abdiwali](https://github.com/abdiwaliHasan)
